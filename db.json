@@ -1,0 +1,31 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "titel": "Postman",
+      "description": "Full Postman courses from zero in Arabic"
+    },
+    {
+      "id": 2,
+      "titel": "Selenium",
+      "description": "Full Selenium courses from zero in Arabic"
+    },
+    {
+      "id": 3,
+      "titel": "cypress",
+      "description": "Full cypress courses from zero in Arabic"
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$nMJVyytpmQSjNFucattumeXKoeL7EbrbCqKi5YEn70.3OqPTXF8XK",
+      "id": 1
+    },
+    {
+      "email": "rofida@mail.com",
+      "password": "$2a$10$DLu/0O1mxmu5snWmAUeI.ub6I737OIRGLRHxPobZsYsGd5a4qHujS",
+      "id": 2
+    }
+  ]
+}
